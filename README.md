@@ -26,7 +26,7 @@ Design Tools: Figma for UI/UX design<br/>
 * Detailed property viewing
 * Secure checkout process
 * User authentication
-<br/>
+
 ## Primary Pages
 |----------------------|------------------------------------------------------|
 |**Page**              |**Description**                                       |
