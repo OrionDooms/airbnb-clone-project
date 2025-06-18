@@ -28,15 +28,10 @@ Design Tools: Figma for UI/UX design<br/>
 * User authentication
 
 ## Primary Pages
-|----------------------|------------------------------------------------------|
 |**Page**              |**Description**                                       |
-|----------------------|------------------------------------------------------|
 |Property Listing View |Grid display of available properties with filters     |
-|----------------------|------------------------------------------------------|
 |Listing Detailed View |Complete property details with images and booking form|
-|----------------------|------------------------------------------------------|
 |Simple Checkout View  |Streamlined payment and booking confirmation          |
-|----------------------|------------------------------------------------------|
-<br/>
+
 ## Importance of User-Friendly Design<br/>
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.<br/>
