@@ -84,3 +84,21 @@ A well-designed booking system reduces friction in the user journey, increases c
   - removes blockers.
   - organizes meetings.
 <br/>
+## UI Component Patterns<br/>
+### Planned Components<br/>
+1. Navbar
+   - Logo
+   - Search bar
+   - User navigation
+   - Responsive menu
+   - Property Card
+2. Property image
+   - Basic details (price, location, rating)
+   - Favorite button
+   - Responsive layout
+3. Footer
+   - Site links
+   - Company information
+   - Social media links
+   - Copyright information
+   <br/>
