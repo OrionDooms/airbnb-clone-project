@@ -83,7 +83,7 @@ A well-designed booking system reduces friction in the user journey, increases c
   - Facilitates agile processes.
   - removes blockers.
   - organizes meetings.
-<br/>
+
 ## UI Component Patterns<br/>
 ### Planned Components<br/>
 1. Navbar
