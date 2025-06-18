@@ -16,7 +16,6 @@ Version Control: Git and GitHub<br/>
 Design Tools: Figma for UI/UX design<br/>
 
 ## UI/UX Design Planning<br/>
-<br/>
 ### Design Goals<br/>
 * Create intuitive booking flow
 * Maintain visual consistency
